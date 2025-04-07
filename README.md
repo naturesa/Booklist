@@ -1,5 +1,4 @@
-# Booklist 
-### WIP
+# Booklist (WIP)
 
 Booklist is a webapp designed to keep track of my readings 📚
 
@@ -23,7 +22,8 @@ This project is a way for me to improve my skills and keep learning!
   - Firebase Authentication (for user login)
 
 - **Deployment**:
-  - Netlify / Firebase Hosting (for hosting)
+<!-- - Netlify / Firebase Hosting (for hosting) -->
+  
 
 - **Version Control**:
   - Git
