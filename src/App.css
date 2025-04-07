@@ -1,0 +1,16 @@
+/* src/App.css */
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.book-card {
+  width: 150px;
+  text-align: center;
+}
+
+.book-card img {
+  width: 100%;
+  height: auto;
+}
